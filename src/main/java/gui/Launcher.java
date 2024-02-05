@@ -14,7 +14,7 @@ public class Launcher {
 			public void run() {
 				try {
 					Aurkezpena2 frame = new Aurkezpena2();
-					Login nl=new Login3();
+					Login nl=new Login2();
 					frame.setNeogozioLogica(nl);
 					
 					frame.setVisible(true);
